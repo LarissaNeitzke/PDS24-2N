@@ -49,7 +49,10 @@ let numero2 = 10
 let resultado = numero1 <= numero2
 console.log(numero1, '<=', numero2, '=', resultado)*/
 
-
+var palavra1 = 'lar'
+var palavra2 = 'issa'
+var resultado = palavra1 + palavra2
+console.log(resultado)
 
 
 
